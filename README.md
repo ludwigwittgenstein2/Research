@@ -1,19 +1,22 @@
-# Research
+# Research:
 PhD Description:
 
 
-Research Areas:
+## Research Areas:
+
+I am exploring Reinforcement Learning and Information Retrieval applied in Social Media
 
 
 This is a repo for my PhD reading list
 
 
 
-##Reading List
+## Reading List
 
 
-#####
-Reinforcement Learning: A Survey
+
+
+## Reinforcement Learning: A Survey
  
 http://www.cs.ualberta.ca/%7Esutton/Talks/RL-Tutorial/sld001.htm
  
@@ -27,7 +30,7 @@ http://www.cs.ualberta.ca/%7Esutton/RL-FAQ.html
  
 http://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html
  
-#####DEMOS :
+## DEMOS :
  
 https://www.youtube.com/watch?v=b1a53hE0yQs
  
