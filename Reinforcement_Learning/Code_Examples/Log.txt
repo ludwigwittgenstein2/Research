@@ -1,0 +1,16 @@
+PhD -Research:
+
+
+Oct 2019:
+
+I am looking into Reinforcement Learning for engineering part of my PhD.
+Currently, I am understanding background topics in Reinforcement Learning through reading
+Richard Stutton's book. As of cursory reading, it seems that the field draws from extremely diverse
+disciplines.
+
+
+Out of Scope PhD areas:
+- I wonder if Concepts in Theology, Philosophy can be infused within Reinforcement Learning?
+  Ideas to incorporate in the future:
+        - Middle Knowledge into an Agent in Artificial Intelligence
+        
