@@ -1,16 +1,85 @@
 PhD -Research:
 
+A log of my thoughts:
+
 
 Oct 2019:
 
 I am looking into Reinforcement Learning for engineering part of my PhD.
 Currently, I am understanding background topics in Reinforcement Learning through reading
-Richard Stutton's book. As of cursory reading, it seems that the field draws from extremely diverse
-disciplines.
+Richard Stutton's book. This is how I think, in order for me to construct a conceptual pathway in my mind.
+I figure out, where the field borrows concepts and try to understand, picture them in my mind.
+
+The Engineering aspect is applying or building products that require tools to solve problems that fall
+under Reinforcement Learning.
+
+
+As of cursory reading, it seems that the field draws from extremely diverse
+disciplines. I will explain once I finish the book and practice solving few problems.
+
+
+
+Richard's Book:
+
+I took this book to understand key concepts of RL. I have not finished it yet, it's been only a few
+weeks into this book. I see my lack of understanding in mathematical formalization of problem.
+
+Outline:
+
+Chapter 1: Reinforcement Learning Problem:
+
+Chapter 13: Frontier
+- Pyschology
+- Neuroscience
+
+Chapter 14: Application and Case Studies
+
+Chapter 15: Prospects
+
+
+
+Chapter 1:
+
+Stutton starts the book by explaining that the book is about computational approach to learning from interaction.
+Computational approach, I think of the definition, "transformation of representation". In my mind, I think,
+transformation of representation of decision making.
+
+Stutton says rather than theory, he wants to go in the direction of exploring design for machines that are
+effective in scientific or economic interests through computational experiments or through mathematical analysis.
+
+Reinforcement Learning is focused on goal directed learning from interaction. Problems in Reinforcement Learning
+involved learning what to do, how to map situations to actions to maximize numerical signal rewards. In essential,
+it boil down towards:
+
+-it is closed loop (problems not having direction)
+-consequence instructions of action
+-play over extend time periods
+
+In Un-supervised learning, we find a hidden pattern. In Reinforcement Learning, we find maximum output.
+A quick example would be adaptive controller that adjusts parameters of petroleum refinery operation in real time.
+An Agent needs to monitor the environment.
+
+Key Elements of Reinforcement Learning:
+-Agent, Environment
+-Policy, Reward
+-- Value function
+
+Policy is the agent's way of behaving at the given time (i.e) Mapping from perceived states of environment into actions
+to be taken in states. Policy is the core of Reinforcement Learning. Policy could be stochastic.
+Reward Signal defines goal in reinforcement learning.
+
+
+
+
+
+COSMOS Lab Topics:
+  - Social Reinforcement Learning
+
 
 
 Out of Scope PhD areas:
 - I wonder if Concepts in Theology, Philosophy can be infused within Reinforcement Learning?
   Ideas to incorporate in the future:
         - Middle Knowledge into an Agent in Artificial Intelligence
-        
+        - Concepts of Theology could be formalized into Reinforcement Learning
+        - I think, what are the applications of formalizing these concepts?
