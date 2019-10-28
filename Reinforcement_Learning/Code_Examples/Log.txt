@@ -1,4 +1,4 @@
-PhD -Research:
+PhD -Research (Incomplete)
 
 A log of my thoughts:
 
@@ -67,6 +67,27 @@ Key Elements of Reinforcement Learning:
 Policy is the agent's way of behaving at the given time (i.e) Mapping from perceived states of environment into actions
 to be taken in states. Policy is the core of Reinforcement Learning. Policy could be stochastic.
 Reward Signal defines goal in reinforcement learning.
+
+
+
+Chapter 2: Multi-Arm Bandits:
+
+In this chapter, the core idea of Reinforcement Learning is as follows:
+State and Action spaces are small enough for approximate value functions to be representated as arrays or tables
+
+The most distinguishing feature of Reinforcement Learning is that it uses training information to evaluate the action
+instead of instructing. We need active search behavior.
+
+K-bandwidth problem:
+
+Consider that we are faced with a choice among k different options or actions.
+After each choice, we receive numerical reward from statistical probability distribution.
+Our objective is to maximize expected total reward over some time.
+
+Epsilon Greedy -- Pick the best current optimal action (stochastic)
+
+Non-Stationary Problems:
+
 
 
 
