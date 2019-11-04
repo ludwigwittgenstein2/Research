@@ -69,4 +69,6 @@ http://www.cs.ualberta.ca/~sutton/software.html
  
 http://staff.aist.go.jp/utsugi-a/Lab/Links.html
  
-#####
+#####Author:
+
+Rick Rejeleene

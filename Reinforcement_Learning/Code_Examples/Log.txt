@@ -89,6 +89,50 @@ Epsilon Greedy -- Pick the best current optimal action (stochastic)
 Non-Stationary Problems:
 
 
+----------------------------------------------------------------------------------
+
+Book:
+
+Introduction to Deep Learning by Eugene Charniak:
+
+Outline:
+
+
+
+
+
+Chapter 1:
+
+Feed Forward Neural Networks:
+
+  -Perceptrons
+
+
+
+
+
+Chapter 5 - Sequence to Sequence Learning:
+
+
+
+-Seq2Seq program
+
+
+
+Chapter 6: Deep Reinforcement Learning
+
+
+Q-Learning:
+
+
+
+Chapter 7: Un-supervised neural networks:
+
+Auto-encoder:
+
+
+Generative adversarial networks:
+
 
 
 
