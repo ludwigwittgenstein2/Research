@@ -24,17 +24,17 @@ Research Papers:
 
 ## Reinforcement Learning: A Survey
  
-http://www.cs.ualberta.ca/%7Esutton/Talks/RL-Tutorial/sld001.htm
+1) [University of Alberta - Tutorial Reinforcement Learning] (http://www.cs.ualberta.ca/%7Esutton/Talks/RL-Tutorial/sld001.htm)
  
-http://www.scholarpedia.org/article/Reinforcement_learning#The_Algorithmic_level_.28Machine-Learning_perspective.29
+2) [Scholarpedia] -Reinforcement Learning (http://www.scholarpedia.org/article/Reinforcement_learning#The_Algorithmic_level_.28Machine-Learning_perspective.29)
  
-http://www.bkgm.com/articles/tesauro/tdl.html
+3) http://www.bkgm.com/articles/tesauro/tdl.html
  
-http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node27.html
+4) http://webdocs.cs.ualberta.ca/~sutton/book/ebook/node27.html
  
-http://www.cs.ualberta.ca/%7Esutton/RL-FAQ.html
+5) http://www.cs.ualberta.ca/%7Esutton/RL-FAQ.html
  
-http://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html
+6) http://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html
  
 ## DEMOS :
  
