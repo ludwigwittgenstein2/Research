@@ -4,7 +4,8 @@ PhD Description:
 
 ## Research Areas:
 
-I am exploring Reinforcement Learning and Information Retrieval applied in Social Media
+I am exploring Reinforcement Learning, Information Retrieval,
+NLP, Behavior Modeling applied in Social Media.
 
 
 This is a repo for my PhD reading list
@@ -12,6 +13,11 @@ This is a repo for my PhD reading list
 
 
 ## Reading List
+
+Research Papers:
+
+1)Reinforcement Learning
+2)Social Behavior Modeling
 
 
 
@@ -70,5 +76,4 @@ http://www.cs.ualberta.ca/~sutton/software.html
 http://staff.aist.go.jp/utsugi-a/Lab/Links.html
  
 #####Author:
-
-Rick Rejeleene
+[^1]: Rick Rejeleene
