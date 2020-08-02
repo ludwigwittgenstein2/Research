@@ -1,0 +1,6 @@
+{
+'consumer_key'="hJvykG4ceWnLK8b61WmF1AiRk"
+'consumer_secret'= "RQODSBTOvKxqgxqqeRpNgUxHTmI1byX6NTRaY8AVJ8amXO6yhL"
+'access_token'='access token obtained from twitter api'
+'access_token_secret'='consumer token secret obtained from twitter api'
+}
